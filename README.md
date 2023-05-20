@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ayman Butmah</h1>
 <p align="center">
 
-<p align="center">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer+%F0%9F%93%B1%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineer+%7C+UI%26UX+Designer;Creative%2C+Innovative%2C+%26+Fast+Learner%F0%9F%92%AB;Code+%26+Conquer+%F0%9F%9A%80;Usability+is+the+Heart+of+Designs%E2%9C%A8" alt="Typing SVG" /></a>
-</p>
+
   
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
